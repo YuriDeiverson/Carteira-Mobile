@@ -2,14 +2,8 @@
 
 Aplicativo mobile para gerenciamento de transações financeiras, com autenticação segura, backend em produção e banco de dados na nuvem.
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/14d4a2f5-da15-4d34-92e8-6bd8b9a25a42" width="250px"/>
-<img src="https://github.com/user-attachments/assets/b7f5cd02-1cbe-4677-ac01-f23d57ee25f2" width="250px"/>
-<img src="https://github.com/user-attachments/assets/ae8ce870-a486-4af1-bb96-d32701bec07e" width="250px"/>
-<img src="https://github.com/user-attachments/assets/abcd70f2-da95-4534-b38f-f6cd5f528b46" width="250px"/>
-<img src="https://github.com/user-attachments/assets/60fedb23-1e82-46d0-8f76-c1e11ace97ff" width="250px"/>
-</div>
-## 📱 Tecnologias Utilizadas
+[🔗 Protótipo UI/UX no Figma](https://www.figma.com/proto/ZxVQflfiq2Vsxk9PUti7VR/Banco-APP?node-id=0-1&t=KwrM2aodexrPRf4n-1)
+
 
 ### Frontend (Mobile)
 - **React Native** (Expo)
